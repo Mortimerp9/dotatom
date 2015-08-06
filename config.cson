@@ -1,0 +1,26 @@
+"*":
+  "exception-reporting":
+    userId: "e0f76bf6-e598-5503-9874-513b334ba293"
+  welcome:
+    showOnStartup: false
+  "atom-ternjs": {}
+  minimap:
+    plugins:
+      linter: true
+      selection: true
+      "find-and-replace": true
+      "git-diff": true
+  core:
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+  editor:
+    invisibles: {}
+    backUpBeforeSaving: true
+  "linter-eslint":
+    globalNodePath: "/Users/pierre/.nvm/v0.10.36"
+    useGlobalEslint: true
+  linter:
+    showErrorPanel: false
+  pigments: {}
