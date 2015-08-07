@@ -1,0 +1,2 @@
+# dotatom
+my dotatom directory
